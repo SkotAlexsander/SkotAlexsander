@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front - End`**
 
-Me chamo Alexsadner Martins de Menezes, 
+Me chamo Alexsander Martins de Menezes, 
 Tenho 22 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniaselvi. Sou apaixonado por tecnologia e compartilho meu conhecimento nessa plataforma.
 
 ---
