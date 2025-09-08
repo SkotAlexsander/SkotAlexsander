@@ -2,17 +2,8 @@
 
 **`Desenvolvedor Front - End`**
 
-Me chamo Alexsadner Martins de Menezes, tenho 22 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniaselvi. Sou apaixonado por tecnologia e compartilho meu conhecimento nessa plataforma.
-
-<p align="left">
-    <a href="https://github.com/SkotAlexsander?tab=repositories">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://github.com/SkotAlexsander?tab=stars"
-        />
-    </a>
-</p>
+Me chamo Alexsadner Martins de Menezes, 
+Tenho 22 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniaselvi. Sou apaixonado por tecnologia e compartilho meu conhecimento nessa plataforma.
 
 ---
 
