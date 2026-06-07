@@ -12,12 +12,6 @@
 
 ---
 
-<img src="skills.svg" width="100%" alt="Stack & Proficiência"/>
-
-<br/>
-
----
-
 <br/>
 
 <img src="https://img.shields.io/badge/TECNOLOGIAS-0d1117?style=flat-square&labelColor=0d1117&color=0d1117"/>
