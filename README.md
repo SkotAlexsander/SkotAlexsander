@@ -21,36 +21,7 @@
 ---
 
 <br/>
-<svg width="100%" viewBox="0 0 680 284" xmlns="http://www.w3.org/2000/svg" role="img">
-  <title>Stack &amp; Proficiência</title>
-  <desc>Barras de proficiência por tecnologia</desc>
-  <rect width="680" height="284" rx="6" fill="#0d1117"/>
 
-  <text x="32" y="52" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="12" fill="#8b949e">HTML5</text>
-  <rect x="134" y="46" width="462" height="2" rx="1" fill="#21262d"/>
-  <rect x="134" y="46" width="415" height="2" rx="1" fill="#58a6ff"/>
-  <text x="610" y="52" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="11" fill="#484f58">90%</text>
-  <text x="32" y="90" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="12" fill="#8b949e">CSS3</text>
-  <rect x="134" y="84" width="462" height="2" rx="1" fill="#21262d"/>
-  <rect x="134" y="84" width="392" height="2" rx="1" fill="#58a6ff"/>
-  <text x="610" y="90" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="11" fill="#484f58">85%</text>
-  <text x="32" y="128" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="12" fill="#8b949e">JavaScript</text>
-  <rect x="134" y="122" width="462" height="2" rx="1" fill="#21262d"/>
-  <rect x="134" y="122" width="346" height="2" rx="1" fill="#58a6ff"/>
-  <text x="610" y="128" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="11" fill="#484f58">75%</text>
-  <text x="32" y="166" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="12" fill="#8b949e">React</text>
-  <rect x="134" y="160" width="462" height="2" rx="1" fill="#21262d"/>
-  <rect x="134" y="160" width="300" height="2" rx="1" fill="#58a6ff"/>
-  <text x="610" y="166" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="11" fill="#484f58">65%</text>
-  <text x="32" y="204" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="12" fill="#8b949e">Git</text>
-  <rect x="134" y="198" width="462" height="2" rx="1" fill="#21262d"/>
-  <rect x="134" y="198" width="369" height="2" rx="1" fill="#58a6ff"/>
-  <text x="610" y="204" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="11" fill="#484f58">80%</text>
-  <text x="32" y="242" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="12" fill="#8b949e">Python</text>
-  <rect x="134" y="236" width="462" height="2" rx="1" fill="#21262d"/>
-  <rect x="134" y="236" width="254" height="2" rx="1" fill="#58a6ff"/>
-  <text x="610" y="242" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="11" fill="#484f58">55%</text>
-</svg>
 <img src="https://img.shields.io/badge/STACK%20%26%20PROFICIÊNCIA-0d1117?style=flat-square&labelColor=0d1117&color=0d1117&logoColor=484f58"/>
 
 <br/><br/>
@@ -141,6 +112,11 @@
 
 <br/>
 
+<div align="center">
+<sub><code>may the code be with you</code> &nbsp;·&nbsp; Rio Grande do Sul, Brasil</sub>
+</div>
+
+<br/>
 <div align="center">
 <sub><code>may the code be with you</code> &nbsp;·&nbsp; Rio Grande do Sul, Brasil</sub>
 </div>
