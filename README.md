@@ -4,14 +4,6 @@
 
 <sub><code>front-end developer</code></sub>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Rio%20Grande%20do%20Sul%20·%20Brasil-0d1117?style=flat-square&labelColor=0d1117&color=21262d&logoColor=8b949e"/>
-<img src="https://img.shields.io/badge/100%25%20remoto-0d1117?style=flat-square&labelColor=0d1117&color=21262d"/>
-<img src="https://img.shields.io/badge/ADS%20·%20Uniaselvi-0d1117?style=flat-square&labelColor=0d1117&color=21262d"/>
-
-<br/><br/>
-
 <sub>Apaixonado por tecnologia e desenvolvimento web. Cursando ADS na Uniaselvi,<br/>trabalho 100% remotamente criando interfaces e soluções digitais.</sub>
 
 <br/>
