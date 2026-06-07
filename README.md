@@ -12,12 +12,6 @@
 
 ---
 
-<br/>
-
-<img src="https://img.shields.io/badge/STACK%20%26%20PROFICIÊNCIA-0d1117?style=flat-square&labelColor=0d1117&color=0d1117&logoColor=484f58"/>
-
-<br/><br/>
-
 <img src="skills.svg" width="100%" alt="Stack & Proficiência"/>
 
 <br/>
