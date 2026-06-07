@@ -27,14 +27,7 @@
 
 <br/>
 
-```
-  HTML5        ████████████████████░░   90%
-  CSS3         ███████████████████░░░   85%
-  JavaScript   ████████████████░░░░░░   75%
-  React        ██████████████░░░░░░░░   65%
-  Git          ██████████████████░░░░   80%
-  Python       ████████████░░░░░░░░░░   55%
-```
+<img src="skills.svg" alt="Skills" width="100%"/>
 
 <br/>
 
@@ -134,10 +127,5 @@
 `May the code be with you` &nbsp;·&nbsp; Rio Grande do Sul, Brasil
 
 <br/>
-
-</div>
-<div align="center">
-
-*✦ May the code be with you — Rio Grande do Sul, Brasil ✦*
 
 </div>
