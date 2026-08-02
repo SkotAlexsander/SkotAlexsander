@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="./assets/banner.svg" alt="Alex Martins — desenvolvimento web e edição de vídeo" width="100%">
-
-</div>
+<img src="./assets/banner.svg" alt="Alex Martins — desenvolvimento web e edição de vídeo" width="900">
 
 Trabalho na interseção entre **desenvolvimento web** e **edição de vídeo**. As duas áreas
 operam sobre os mesmos dois materiais — estrutura e tempo — e quase tudo que aprendo numa
@@ -13,7 +9,7 @@ Nos últimos anos passei a usar modelos de linguagem no meio do fluxo, não no f
 que me interessa aí não é gerar resultado pronto, é encurtar a distância entre ter a ideia
 e conseguir olhar para ela.
 
-<img src="./assets/ficha.svg" alt="Ficha — nome: Alex Martins · áreas: web, vídeo, automação · base: Brasil, pt-BR · materiais: estrutura e tempo · método: quebrar, consertar, refazer melhor · contato: alexsandermmj@gmail.com" width="704">
+<img src="./assets/ficha.svg" alt="Ficha — nome: Alex Martins · áreas: web, vídeo, automação · base: Brasil, pt-BR · materiais: estrutura e tempo · método: quebrar, consertar, refazer melhor · contato: alexsandermmj@gmail.com" width="900">
 
 ---
 
@@ -35,7 +31,7 @@ e conseguir olhar para ela.
 Como o tempo se reparte hoje entre as quatro frentes. A proporção não é fixa — muda com o
 projeto —, mas a ordem tem sido estável.
 
-<img src="./assets/foco.svg" alt="Distribuição do tempo de trabalho por área: desenvolvimento web 55%, edição de vídeo 20%, IA e automação 15%, 3D e motion 10%" width="860">
+<img src="./assets/foco.svg" alt="Distribuição do tempo de trabalho por área: desenvolvimento web 55%, edição de vídeo 20%, IA e automação 15%, 3D e motion 10%" width="900">
 
 <!-- ┌──────────────────────────────────────────────────────────────────────────┐
      │  Seção ATIVIDADE — desligada por decisão, não por falta de dado.        │
@@ -50,7 +46,7 @@ projeto —, mas a ordem tem sido estável.
 
 ## // ATIVIDADE
 
-<img src="./assets/atividade.svg" alt="Commits por mês e linguagens por volume de código" width="940">
+<img src="./assets/atividade.svg" alt="Commits por mês e linguagens por volume de código" width="900">
 
 -->
 
@@ -58,7 +54,7 @@ projeto —, mas a ordem tem sido estável.
 
 ## // INSTRUMENTAL
 
-<img src="./assets/instrumental.svg" alt="Ferramentas por área: web, 3D e motion, vídeo, IA e automação" width="760">
+<img src="./assets/instrumental.svg" alt="Ferramentas por área: web, 3D e motion, vídeo, IA e automação" width="900">
 
 ---
 
@@ -99,13 +95,7 @@ Duas consequências no dia a dia:
 
 ---
 
-<div align="center">
-
 **[pixelmartins.com](https://pixelmartins.com)** ·
 **[alexsandermmj@gmail.com](mailto:alexsandermmj@gmail.com)**
 
-<br>
-
-<sub>`//` *estrutura e tempo* `//`</sub>
-
-</div>
+<sub>`//` *estrutura e tempo*</sub>
