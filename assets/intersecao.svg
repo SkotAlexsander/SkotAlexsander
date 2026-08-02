@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 348" width="820" height="348" role="img" aria-label="Interseção entre código e vídeo">
+  <title>Interseção entre código e vídeo</title>
+  <defs>
+    <linearGradient id="fundo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#08090F"/>
+      <stop offset="100%" stop-color="#0C0D16"/>
+    </linearGradient>
+    <pattern id="scan" width="3" height="3" patternUnits="userSpaceOnUse">
+      <rect width="3" height="1.2" fill="#000" opacity=".20"/>
+    </pattern>
+  </defs>
+  <rect width="820" height="348" rx="10" fill="url(#fundo)"/>
+  <rect x="281" y="46" width="257" height="278" rx="10" fill="#b350ff" opacity=".09"/>
+  <rect x="281" y="46" width="257" height="278" rx="10" fill="none" stroke="#b350ff" stroke-width="1.5" opacity=".45"/>
+  <text x="152.7" y="84.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21" fill="#00a0ac" text-anchor="middle" font-weight="700" letter-spacing="3">CÓDIGO</text>
+  <rect x="119" y="96" width="68" height="2" fill="#00a0ac" opacity=".45"/>
+  <text x="152.7" y="142.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" fill="#98A7C0" text-anchor="middle">componente</text>
+  <text x="152.7" y="182.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" fill="#98A7C0" text-anchor="middle">estado</text>
+  <text x="152.7" y="222.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" fill="#98A7C0" text-anchor="middle">performance</text>
+  <text x="152.7" y="262.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" fill="#98A7C0" text-anchor="middle">acessibilidade</text>
+  <text x="152.7" y="302.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" fill="#98A7C0" text-anchor="middle">build</text>
+  <text x="410.0" y="84.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21" fill="#E6EEF9" text-anchor="middle" font-weight="700" letter-spacing="3">O QUE É COMUM</text>
+  <rect x="376" y="96" width="68" height="2" fill="#E6EEF9" opacity=".45"/>
+  <text x="410.0" y="142.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" fill="#E6EEF9" text-anchor="middle">estrutura</text>
+  <text x="410.0" y="182.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" fill="#E6EEF9" text-anchor="middle">tempo</text>
+  <text x="410.0" y="222.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" fill="#E6EEF9" text-anchor="middle">hierarquia</text>
+  <text x="410.0" y="262.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" fill="#E6EEF9" text-anchor="middle">iteração</text>
+  <text x="410.0" y="302.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" fill="#E6EEF9" text-anchor="middle">cortar o excesso</text>
+  <text x="667.3" y="84.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21" fill="#c08a00" text-anchor="middle" font-weight="700" letter-spacing="3">VÍDEO</text>
+  <rect x="633" y="96" width="68" height="2" fill="#c08a00" opacity=".45"/>
+  <text x="667.3" y="142.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" fill="#98A7C0" text-anchor="middle">corte</text>
+  <text x="667.3" y="182.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" fill="#98A7C0" text-anchor="middle">ritmo</text>
+  <text x="667.3" y="222.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" fill="#98A7C0" text-anchor="middle">som</text>
+  <text x="667.3" y="262.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" fill="#98A7C0" text-anchor="middle">cor</text>
+  <text x="667.3" y="302.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" fill="#98A7C0" text-anchor="middle">render</text>
+  <path d="M255 185H273" stroke="#5C6A85" stroke-width="2"/>
+  <path d="M273 185l-7 -5v10z" fill="#5C6A85"/>
+  <path d="M565 185H547" stroke="#5C6A85" stroke-width="2"/>
+  <path d="M547 185l7 -5v10z" fill="#5C6A85"/>
+  <rect width="820" height="348" rx="10" fill="url(#scan)"/>
+  <rect x="1" y="1" width="818" height="346" rx="10" fill="none" stroke="#1B2338" stroke-width="2"/>
+</svg>

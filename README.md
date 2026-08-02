@@ -1,118 +1,143 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Alex Martins — sites e vídeo, feitos pela mesma pessoa" width="100%">
-
-### Você contrata **uma pessoa** em vez de duas
-
-A conta de compatibilizar o site com o vídeo deixa de ser sua.
-
-**[ SITE ](https://pixelmartins.com)** ·
-**[ E-MAIL ](mailto:alexsandermmj@gmail.com)**
+<img src="./assets/banner.svg" alt="Alex Martins — desenvolvimento web e edição de vídeo" width="100%">
 
 </div>
 
----
+Trabalho na interseção entre **desenvolvimento web** e **edição de vídeo**. As duas áreas
+operam sobre os mesmos dois materiais — estrutura e tempo — e quase tudo que aprendo numa
+transfere para a outra. Um componente e um corte respondem à mesma pergunta: o que fica,
+em que ordem, e por quanto tempo.
+
+Nos últimos anos passei a usar modelos de linguagem no meio do fluxo, não no fim dele. O
+que me interessa aí não é gerar resultado pronto, é encurtar a distância entre ter a ideia
+e conseguir olhar para ela.
 
 ```
-┌── SYSTEM ──────────────────────────────────────────────┐
+┌── FICHA ───────────────────────────────────────────────┐
 │                                                        │
-│  $ whoami                                              │
-│  > alex martins                                        │
-│                                                        │
-│  função ....... front-end dev // editor de vídeo       │
+│  nome ......... Alex Martins                           │
+│  áreas ........ web · vídeo · automação                │
 │  base ......... Brasil · pt-BR                         │
-│  entrega ...... site + vídeo, mesmo padrão e prazo     │
-│  ia ........... no processo, não só no produto         │
+│  materiais .... estrutura e tempo                      │
 │  método ....... quebrar, consertar, refazer melhor     │
-│  status ....... disponível pra projeto                 │
+│  contato ...... alexsandermmj@gmail.com                │
 │                                                        │
 └────────────────────────────────────────────────────────┘
 ```
 
-Código e edição falam a mesma língua: **estrutura e timing**. Um dia as duas áreas se
-cruzaram no meu trabalho e eu passei a usar uma pra fortalecer a outra — o site herda o
-ritmo do vídeo, o vídeo herda o rigor do código.
+---
 
-Automatizo o repetitivo com IA e uso o tempo que sobra na parte que decide o resultado:
-a ideia.
+## // ÁREAS DE INTERESSE
+
+- **Interfaces de alta performance no navegador** — o que o usuário sente como "rápido" é
+  quase sempre uma decisão de arquitetura, não de otimização tardia.
+- **Simulação e visualização 3D em tempo real** — escala, física e o problema de representar
+  ordens de grandeza que não cabem numa tela.
+- **Ritmo e retenção em vídeo curto** — onde cortar, quanto segurar, e por que a atenção cai.
+- **Automação de fluxo com LLM** — o que vale automatizar, o que não vale, e como manter a
+  decisão criativa com a pessoa.
+- **Acessibilidade e responsividade como restrição de projeto** — não como acabamento.
 
 ---
 
-## // O QUE EU ENTREGO
+## // A INTERSEÇÃO
 
-| ⬢ SITES & LANDING PAGES | ⬢ EDIÇÃO DE VÍDEO | ⬢ AUTOMAÇÃO COM IA |
-| :--- | :--- | :--- |
-| *Carrega rápido e converte.* | *Do bruto ao vídeo que prende.* | *Menos manual, mais consistência.* |
-| Sites institucionais e portfólios | Reels, Shorts e conteúdo pra redes | Fluxos automatizados sob medida |
-| Landing pages de campanha | Vídeos institucionais e de produto | Integração de LLMs no processo |
-| Responsivo e pronto pra SEO | Corte, ritmo, som, cor e legenda | Conteúdo assistido por IA, com curadoria |
+A hipótese que organiza meu trabalho: código e edição não são dois ofícios que eu acumulo,
+são o mesmo problema apresentado em dois materiais. O que muda é o suporte.
 
----
+<img src="./assets/intersecao.svg" alt="Diagrama: o que código e vídeo têm em comum — estrutura, tempo, hierarquia, iteração, cortar o excesso" width="820">
 
-## // STACK
-
-<img src="./assets/stack.svg" alt="Stack: front-end, 3D e motion, vídeo, IA e automação" width="100%">
+Na prática isso significa levar hierarquia visual do vídeo para a interface, e disciplina
+de iteração da interface para a timeline.
 
 ---
 
-## // PROJETOS
+## // TRAJETÓRIA
+
+<img src="./assets/trajetoria.svg" alt="Linha do tempo: primeiros projetos, as áreas se cruzam, as duas frentes juntas" width="760">
+
+Não cheguei aqui por um plano. Comecei pelo código, entrei em vídeo por necessidade de
+projeto, e demorei a perceber que as duas coisas estavam se ensinando mutuamente.
+
+---
+
+## // DISTRIBUIÇÃO DE FOCO
+
+Como o tempo se reparte hoje entre as quatro frentes. A proporção não é fixa — muda com o
+projeto —, mas a ordem tem sido estável.
+
+<img src="./assets/foco.svg" alt="Distribuição do tempo de trabalho por área: desenvolvimento web 55%, edição de vídeo 20%, IA e automação 15%, 3D e motion 10%" width="940">
+
+<!-- ┌──────────────────────────────────────────────────────────────────────────┐
+     │  Seção ATIVIDADE — desligada por decisão, não por falta de dado.        │
+     │  O `atividade.svg` já está gerado com dado real da API do GitHub.       │
+     │  Está fora porque a conta é nova (ago/2025, 3 repos): o gráfico mostra  │
+     │  8 meses zerados e 98% HTML — e esse 98% é artefato de medição, já que  │
+     │  o Three.js e o JS moram dentro de arquivos .html únicos.               │
+     │  Pra ligar: `python gerar_visuais.py atividade` e apague este bloco.    │
+     └──────────────────────────────────────────────────────────────────────────┘
+
+---
+
+## // ATIVIDADE
+
+<img src="./assets/atividade.svg" alt="Commits por mês e linguagens por volume de código" width="940">
+
+-->
+
+---
+
+## // INSTRUMENTAL
+
+<img src="./assets/instrumental.svg" alt="Ferramentas por área: web, 3D e motion, vídeo, IA e automação" width="936">
+
+---
+
+## // TRABALHO EM CURSO
 
 ### ◤ Explorador do Sistema Solar
 
-Simulação 3D do sistema solar em **escala orbital logarítmica**, com física planetária.
-Roda no celular com bottom-sheet e tem um **modo infravermelho** que mapeia temperatura
-em falsa cor.
+Simulação 3D do sistema solar com física orbital. O problema central não é o render — é a
+**escala**: as distâncias reais entre os planetas tornam qualquer visualização honesta
+inutilizável. Resolvi com uma **escala orbital logarítmica**, que preserva a ordem e as
+proporções relativas sem obrigar o usuário a atravessar o vazio.
+
+Duas decisões que valem registro:
+
+- **Modo infravermelho** — mapeia temperatura em falsa cor. Serve pra mostrar que a mesma
+  cena carrega mais de uma camada de informação, e que escolher qual exibir já é uma leitura.
+- **Bottom-sheet no celular** — a interface de controle não pode competir com a cena. No
+  desktop ela cabe ao lado; no celular ela precisa sair da frente.
 
 `Three.js` · `JavaScript` · `HTML/CSS`
 
-**[ver no ar ›](https://pixelmartins.com)**
-
-<br>
-
-> O portfólio completo — código e vídeo — fica em **[pixelmartins.com](https://pixelmartins.com)**.
+**[ver rodando ›](https://pixelmartins.com)**
 
 ---
 
-## // COMO FUNCIONA
+## // MÉTODO
 
-```
- ┌───────────┐  ┌───────────┐  ┌───────────┐  ┌───────────┐
- │ 01        │  │ 02        │  │ 03        │  │ 04        │
- │ BRIEFING  │=>│ PROPOSTA  │=>│ PRODUÇÃO  │=>│ ENTREGA   │
- └───────────┘  └───────────┘  └───────────┘  └───────────┘
-  objetivo,      escopo, prazo  mão na massa,  revisamos
-  público e      e valor por    com aviso no   juntos +
-  referências    escrito        caminho        1 rodada de
-                                               ajustes
-```
+Aprendo fazendo, e o ciclo é sempre o mesmo: **quebrar, consertar, refazer melhor**. É lento
+no começo e fica rápido depois, porque o que sobra da terceira volta não é o resultado — é
+saber onde aquilo costuma quebrar.
 
----
+Duas consequências no dia a dia:
 
-## // IA NO PROCESSO, NÃO SÓ NO PRODUTO
-
-Uso IA no dia a dia pra acelerar código, organizar cortes e gerar variações.
-O que tomava horas leva minutos — e o tempo que sobra vai pra decisão criativa.
-
-```console
-> automatiza(processo_manual)
-→ resultado em minutos, não horas
-```
-
-`Automação de fluxos` · `Integração com LLMs` · `Edição assistida por IA` · `Prototipagem rápida`
+1. Escrevo a versão que funciona antes da versão que está certa, e só então decido se vale
+   a diferença.
+2. Prefiro uma restrição explícita a uma preferência implícita. Restrição se discute;
+   preferência só aparece quando já está caro mudar.
 
 ---
-
-## // CONTATO
 
 <div align="center">
 
-**Site, vídeo ou os dois.** Me manda o que você tem em mente.
-
-**[ pixelmartins.com ](https://pixelmartins.com)** ·
-**[ alexsandermmj@gmail.com ](mailto:alexsandermmj@gmail.com)**
+**[pixelmartins.com](https://pixelmartins.com)** ·
+**[alexsandermmj@gmail.com](mailto:alexsandermmj@gmail.com)**
 
 <br>
 
-<sub>`//` *one dev · two crafts* `//`</sub>
+<sub>`//` *estrutura e tempo* `//`</sub>
 
 </div>
