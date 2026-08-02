@@ -13,18 +13,7 @@ Nos últimos anos passei a usar modelos de linguagem no meio do fluxo, não no f
 que me interessa aí não é gerar resultado pronto, é encurtar a distância entre ter a ideia
 e conseguir olhar para ela.
 
-```
-┌── FICHA ───────────────────────────────────────────────┐
-│                                                        │
-│  nome ......... Alex Martins                           │
-│  áreas ........ web · vídeo · automação                │
-│  base ......... Brasil · pt-BR                         │
-│  materiais .... estrutura e tempo                      │
-│  método ....... quebrar, consertar, refazer melhor     │
-│  contato ...... alexsandermmj@gmail.com                │
-│                                                        │
-└────────────────────────────────────────────────────────┘
-```
+<img src="./assets/ficha.svg" alt="Ficha — nome: Alex Martins · áreas: web, vídeo, automação · base: Brasil, pt-BR · materiais: estrutura e tempo · método: quebrar, consertar, refazer melhor · contato: alexsandermmj@gmail.com" width="704">
 
 ---
 
