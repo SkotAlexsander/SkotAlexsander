@@ -41,33 +41,12 @@ e conseguir olhar para ela.
 
 ---
 
-## // A INTERSEÇÃO
-
-A hipótese que organiza meu trabalho: código e edição não são dois ofícios que eu acumulo,
-são o mesmo problema apresentado em dois materiais. O que muda é o suporte.
-
-<img src="./assets/intersecao.svg" alt="Diagrama: o que código e vídeo têm em comum — estrutura, tempo, hierarquia, iteração, cortar o excesso" width="820">
-
-Na prática isso significa levar hierarquia visual do vídeo para a interface, e disciplina
-de iteração da interface para a timeline.
-
----
-
-## // TRAJETÓRIA
-
-<img src="./assets/trajetoria.svg" alt="Linha do tempo: primeiros projetos, as áreas se cruzam, as duas frentes juntas" width="760">
-
-Não cheguei aqui por um plano. Comecei pelo código, entrei em vídeo por necessidade de
-projeto, e demorei a perceber que as duas coisas estavam se ensinando mutuamente.
-
----
-
 ## // DISTRIBUIÇÃO DE FOCO
 
 Como o tempo se reparte hoje entre as quatro frentes. A proporção não é fixa — muda com o
 projeto —, mas a ordem tem sido estável.
 
-<img src="./assets/foco.svg" alt="Distribuição do tempo de trabalho por área: desenvolvimento web 55%, edição de vídeo 20%, IA e automação 15%, 3D e motion 10%" width="940">
+<img src="./assets/foco.svg" alt="Distribuição do tempo de trabalho por área: desenvolvimento web 55%, edição de vídeo 20%, IA e automação 15%, 3D e motion 10%" width="860">
 
 <!-- ┌──────────────────────────────────────────────────────────────────────────┐
      │  Seção ATIVIDADE — desligada por decisão, não por falta de dado.        │
@@ -90,7 +69,7 @@ projeto —, mas a ordem tem sido estável.
 
 ## // INSTRUMENTAL
 
-<img src="./assets/instrumental.svg" alt="Ferramentas por área: web, 3D e motion, vídeo, IA e automação" width="936">
+<img src="./assets/instrumental.svg" alt="Ferramentas por área: web, 3D e motion, vídeo, IA e automação" width="760">
 
 ---
 
