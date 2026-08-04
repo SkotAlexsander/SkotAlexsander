@@ -69,14 +69,20 @@ proporções relativas sem obrigar o usuário a atravessar o vazio.
 
 Duas decisões que valem registro:
 
-- **Modo infravermelho** — mapeia temperatura em falsa cor. Serve pra mostrar que a mesma
-  cena carrega mais de uma camada de informação, e que escolher qual exibir já é uma leitura.
-- **Bottom-sheet no celular** — a interface de controle não pode competir com a cena. No
-  desktop ela cabe ao lado; no celular ela precisa sair da frente.
+- **Modo infravermelho** — mapeia temperatura em falsa cor, de 50 K a 5800 K. Serve pra
+  mostrar que a mesma cena carrega mais de uma camada de informação, e que escolher qual
+  exibir já é uma leitura.
+- **Composição atmosférica em escala log** — as barras são escaladas em `log10`, senão os
+  gases-traço somem ao lado do componente dominante. E o traço costuma ser a parte
+  interessante: é o metano que faz Urano ser azul.
+
+São **100 corpos** catalogados — planetas, as luas grandes de Júpiter e Saturno, Tritão,
+Encélado, e as sondas.
 
 `Three.js` · `JavaScript` · `HTML/CSS`
 
-**[ver rodando ›](https://pixelmartins.com)**
+**[ver rodando ›](https://skotalexsander.github.io/solarsys/)** ·
+**[código ›](https://github.com/SkotAlexsander/solarsys)**
 
 ---
 
@@ -95,7 +101,7 @@ Duas consequências no dia a dia:
 
 ---
 
-**[pixelmartins.com](https://pixelmartins.com)** ·
+**[pixelmartins.com](https://pixelmartins.com/portifolio/)** ·
 **[alexsandermmj@gmail.com](mailto:alexsandermmj@gmail.com)**
 
 <sub>`//` *estrutura e tempo*</sub>
