@@ -122,11 +122,11 @@ o alarme **continua registrado no sistema operacional**.
 |---|---|
 | **[Vitrola](https://github.com/SkotAlexsander/vitrola)**<br><sub>[▶ abrir](https://skotalexsander.github.io/vitrola/) · [APK](https://github.com/SkotAlexsander/vitrola/releases/latest/download/Vitrola.apk)</sub> | Player de música que lê as etiquetas do arquivo, **tira a cor da capa** e tematiza a interface inteira com ela. O círculo parado virou toca-discos: prato que gira e para onde estava, braço que desce e caminha. Equalizador de 5 bandas, letra sincronizada, velocidade sem alterar o tom. |
 | **[Acervo](https://github.com/SkotAlexsander/acervo)**<br><sub>roda no PC</sub> | Organizador dos arquivos do celular. O mesmo código roda no PC com uma **memória de celular simulada** e no Android mexendo nos arquivos de verdade. A tela de Limpeza separa o que é seguro recuperar do que **precisa da sua leitura** — é a distinção que separa liberar espaço de perder coisa. |
-| **[Prato](https://github.com/SkotAlexsander/prato)**<br><sub>[▶ abrir e instalar](https://skotalexsander.github.io/prato/)</sub> | Comida, água e treino. A meta de água vira **copos com horário**, e o plano não é guardado: é recalculado do que falta — por isso "agora não" redistribui sozinho. 165 alimentos com busca por apelido (miojo, refri, pf). |
+| **[Corpo](https://github.com/SkotAlexsander/corpo)**<br><sub>[▶ abrir e instalar](https://skotalexsander.github.io/corpo/)</sub> | Comida, água e treino. A meta de água vira **copos com horário**, e o plano não é guardado: é recalculado do que falta — por isso "agora não" redistribui sozinho. 165 alimentos com busca por apelido (miojo, refri, pf). |
 | **[Come-Come](https://github.com/SkotAlexsander/come-come)**<br><sub>[▶ jogar](https://skotalexsander.github.io/come-come/)</sub> | Labirinto com 244 pastilhas — o número do fliperama — e **quatro fantasmas com alvo próprio cada**. A bancada carrega o jogo num DOM falso e joga sozinha: alcance de toda pastilha, 12 minutos ao acaso, ciclo comer→olhos→casa. |
 | **[pixelmartins.com](https://github.com/SkotAlexsander/pixelmartins)**<br><sub>[▶ ver](https://pixelmartins.com/portifolio/)</sub> | O portfólio. A página **é uma timeline de edição**: quem rola arrasta o playhead, e a régua no rodapé não é enfeite — é a navegação, com um clipe clicável por seção. Zero biblioteca de terceiro: o GSAP entrou e saiu quando a bancada mostrou que a página fazia tudo sem ele. |
 
-**Vitrola** e **Central Pessoal** têm APK assinado para baixar. **Vitrola** e **Prato**
+**Vitrola** e **Central Pessoal** têm APK assinado para baixar. **Vitrola** e **Corpo**
 também instalam na tela de início direto do navegador. Nenhum deles manda dado para lugar
 nenhum — nem os que rodam no celular.
 
