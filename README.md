@@ -58,31 +58,77 @@ projeto —, mas a ordem tem sido estável.
 
 ---
 
-## // TRABALHO EM CURSO
+## // TRABALHO
+
+Tudo aqui **roda**: ou tem endereço para abrir agora, ou tem APK assinado para instalar.
+Nenhum é maquete, e cada README diz o que **não** foi verificado.
+
+---
 
 ### ◤ Explorador do Sistema Solar
 
-Simulação 3D do sistema solar com física orbital. O problema central não é o render — é a
-**escala**: as distâncias reais entre os planetas tornam qualquer visualização honesta
-inutilizável. Resolvi com uma **escala orbital logarítmica**, que preserva a ordem e as
-proporções relativas sem obrigar o usuário a atravessar o vazio.
+Simulação 3D com física orbital. O problema central não é o render — é a **escala**: as
+distâncias reais tornam qualquer visualização honesta inutilizável. Netuno está a 30 UA;
+Mercúrio, a 0,39. Numa escala linear em que Mercúrio seja visível, o usuário passa a maior
+parte do tempo atravessando vazio.
 
-Duas decisões que valem registro:
+<img src="https://raw.githubusercontent.com/SkotAlexsander/solarsys/main/docs/imagens/02-infravermelho.png" alt="Modo infravermelho: cada corpo em falsa cor por temperatura, de 50 K a 5800 K" width="900">
 
-- **Modo infravermelho** — mapeia temperatura em falsa cor, de 50 K a 5800 K. Serve pra
-  mostrar que a mesma cena carrega mais de uma camada de informação, e que escolher qual
-  exibir já é uma leitura.
-- **Composição atmosférica em escala log** — as barras são escaladas em `log10`, senão os
-  gases-traço somem ao lado do componente dominante. E o traço costuma ser a parte
-  interessante: é o metano que faz Urano ser azul.
+A saída é uma **escala orbital logarítmica**: preserva a ordem e a proporção relativa, e
+descarta a distância absoluta. É uma troca consciente — a visualização passa a ser sobre a
+estrutura do sistema, não sobre o tamanho dele.
 
-São **100 corpos** catalogados — planetas, as luas grandes de Júpiter e Saturno, Tritão,
-Encélado, e as sondas.
+- **Modo infravermelho** (acima) — a mesma cena, outra leitura. Vênus, que a olho nu é o
+  segundo ponto mais discreto da tela, vira o corpo mais quente depois do Sol: 737 K, mais
+  quente que Mercúrio, que está mais perto.
+- **Modo vórtice** — o Sol se move a ~220 km/s em direção a Hércules, então nenhum planeta
+  descreve elipse fechada: cada um traça uma espiral helicoidal.
+- **100 corpos** catalogados, incluindo as luas grandes de Júpiter e Saturno e as sondas.
 
-`Three.js` · `JavaScript` · `HTML/CSS`
+`Three.js` · `JavaScript` · arquivo único, sem build
 
 **[ver rodando ›](https://skotalexsander.github.io/solarsys/)** ·
 **[código ›](https://github.com/SkotAlexsander/solarsys)**
+
+---
+
+### ◤ Central Pessoal Inteligente
+
+Agenda, tarefas e lembretes num app **local-first**: sem conta, sem servidor, e sem pedir
+permissão de internet — ela nem está declarada no manifesto do Android.
+
+<img src="https://raw.githubusercontent.com/SkotAlexsander/central-pessoal/main/docs/imagens/01-hoje-escuro.png" alt="Tela Hoje: progresso do dia, quanto tempo você tem, tarefas" width="240"> <img src="https://raw.githubusercontent.com/SkotAlexsander/central-pessoal/main/docs/imagens/03-agenda.png" alt="Agenda: semana, dia e mês com conflito de horário visível" width="240"> <img src="https://raw.githubusercontent.com/SkotAlexsander/central-pessoal/main/docs/imagens/06-progresso.png" alt="Progresso: gráfico da semana em SVG" width="240">
+
+O que eu não sabia antes de construir: **empacotar um PWA num APK não faz o lembrete tocar
+com o aplicativo fechado.** Lá dentro ele continua sendo uma WebView, e WebView fechada não
+acorda service worker — o APK ingênuo teria o mesmo alcance do navegador, com o agravante
+de *parecer* que resolveu. Quem toca é o **AlarmManager do Android**, e o horário de
+silêncio precisa ser aplicado no ato de agendar, porque o alarme do sistema não reavalia
+nada: ele toca às 3 da manhã e acorda a pessoa.
+
+A prova disso não é opinião: a bancada mata o aplicativo com `am force-stop` e confirma que
+o alarme **continua registrado no sistema operacional**.
+
+`React` · `TypeScript` · `Capacitor` · 408 testes de núcleo puro + 11 rodando dentro de um Android
+
+**[baixar o APK ›](https://github.com/SkotAlexsander/central-pessoal/releases/latest)** ·
+**[código ›](https://github.com/SkotAlexsander/central-pessoal)**
+
+---
+
+### ◤ E o resto
+
+| | O que é, e o que era difícil |
+|---|---|
+| **[Vitrola](https://github.com/SkotAlexsander/vitrola)**<br><sub>[▶ abrir](https://skotalexsander.github.io/vitrola/) · [APK](https://github.com/SkotAlexsander/vitrola/releases/latest/download/Vitrola.apk)</sub> | Player de música que lê as etiquetas do arquivo, **tira a cor da capa** e tematiza a interface inteira com ela. O círculo parado virou toca-discos: prato que gira e para onde estava, braço que desce e caminha. Equalizador de 5 bandas, letra sincronizada, velocidade sem alterar o tom. |
+| **[Acervo](https://github.com/SkotAlexsander/acervo)**<br><sub>roda no PC</sub> | Organizador dos arquivos do celular. O mesmo código roda no PC com uma **memória de celular simulada** e no Android mexendo nos arquivos de verdade. A tela de Limpeza separa o que é seguro recuperar do que **precisa da sua leitura** — é a distinção que separa liberar espaço de perder coisa. |
+| **[Prato](https://github.com/SkotAlexsander/prato)**<br><sub>[▶ abrir e instalar](https://skotalexsander.github.io/prato/)</sub> | Comida, água e treino. A meta de água vira **copos com horário**, e o plano não é guardado: é recalculado do que falta — por isso "agora não" redistribui sozinho. 165 alimentos com busca por apelido (miojo, refri, pf). |
+| **[Come-Come](https://github.com/SkotAlexsander/come-come)**<br><sub>[▶ jogar](https://skotalexsander.github.io/come-come/)</sub> | Labirinto com 244 pastilhas — o número do fliperama — e **quatro fantasmas com alvo próprio cada**. A bancada carrega o jogo num DOM falso e joga sozinha: alcance de toda pastilha, 12 minutos ao acaso, ciclo comer→olhos→casa. |
+| **[pixelmartins.com](https://github.com/SkotAlexsander/pixelmartins-site)**<br><sub>[▶ ver](https://pixelmartins.com/portifolio/)</sub> | O portfólio. A página **é uma timeline de edição**: quem rola arrasta o playhead, e a régua no rodapé não é enfeite — é a navegação, com um clipe clicável por seção. Zero biblioteca de terceiro: o GSAP entrou e saiu quando a bancada mostrou que a página fazia tudo sem ele. |
+
+**Vitrola** e **Central Pessoal** têm APK assinado para baixar. **Vitrola** e **Prato**
+também instalam na tela de início direto do navegador. Nenhum deles manda dado para lugar
+nenhum — nem os que rodam no celular.
 
 ---
 
