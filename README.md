@@ -124,7 +124,7 @@ o alarme **continua registrado no sistema operacional**.
 | **[Acervo](https://github.com/SkotAlexsander/acervo)**<br><sub>roda no PC</sub> | Organizador dos arquivos do celular. O mesmo código roda no PC com uma **memória de celular simulada** e no Android mexendo nos arquivos de verdade. A tela de Limpeza separa o que é seguro recuperar do que **precisa da sua leitura** — é a distinção que separa liberar espaço de perder coisa. |
 | **[Corpo](https://github.com/SkotAlexsander/corpo)**<br><sub>[▶ abrir e instalar](https://skotalexsander.github.io/corpo/)</sub> | Comida, água e treino. A meta de água vira **copos com horário**, e o plano não é guardado: é recalculado do que falta — por isso "agora não" redistribui sozinho. 165 alimentos com busca por apelido (miojo, refri, pf). |
 | **[Come-Come](https://github.com/SkotAlexsander/come-come)**<br><sub>[▶ jogar](https://skotalexsander.github.io/come-come/)</sub> | Labirinto com 244 pastilhas — o número do fliperama — e **quatro fantasmas com alvo próprio cada**. A bancada carrega o jogo num DOM falso e joga sozinha: alcance de toda pastilha, 12 minutos ao acaso, ciclo comer→olhos→casa. |
-| **[pixelmartins.com](https://github.com/SkotAlexsander/pixelmartins)**<br><sub>[▶ ver](https://pixelmartins.com/portifolio/)</sub> | O portfólio. A página **é uma timeline de edição**: quem rola arrasta o playhead, e a régua no rodapé não é enfeite — é a navegação, com um clipe clicável por seção. Zero biblioteca de terceiro: o GSAP entrou e saiu quando a bancada mostrou que a página fazia tudo sem ele. |
+| **[pixelmartins](https://github.com/SkotAlexsander/pixelmartins)**<br><sub>[▶ ver](https://skotalexsander.github.io/pixelmartins/)</sub> | O portfólio. Cinco páginas com endereço próprio, num arquivo só — dá para mandar o link de uma seção específica, e sem JavaScript as cinco aparecem em sequência. O fundo do tema escuro é poeira em três camadas que respondem ao ponteiro em profundidades diferentes, e o movimento é mola simulada, não curva: 2 KB de código no lugar dos 23 KB da biblioteca que faria o mesmo. |
 
 **Vitrola** e **Central Pessoal** têm APK assinado para baixar. **Vitrola** e **Corpo**
 também instalam na tela de início direto do navegador. Nenhum deles manda dado para lugar
@@ -147,7 +147,7 @@ Duas consequências no dia a dia:
 
 ---
 
-**[pixelmartins.com](https://pixelmartins.com/portifolio/)** ·
+**[pixelmartins](https://skotalexsander.github.io/pixelmartins/)** ·
 **[alexsandermmj@gmail.com](mailto:alexsandermmj@gmail.com)**
 
 <sub>`//` *estrutura e tempo*</sub>
