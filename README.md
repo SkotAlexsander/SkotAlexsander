@@ -126,7 +126,7 @@ o alarme **continua registrado no sistema operacional**.
 | **[Come-Come](https://github.com/SkotAlexsander/come-come)**<br><sub>[▶ jogar](https://skotalexsander.github.io/come-come/)</sub> | Labirinto com 244 pastilhas — o número do fliperama — e **quatro fantasmas com alvo próprio cada**. A bancada carrega o jogo num DOM falso e joga sozinha: alcance de toda pastilha, 12 minutos ao acaso, ciclo comer→olhos→casa. |
 | **[pixelmartins](https://github.com/SkotAlexsander/pixelmartins)**<br><sub>[▶ ver](https://skotalexsander.github.io/pixelmartins/)</sub> | O portfólio. Cinco páginas com endereço próprio, num arquivo só — dá para mandar o link de uma seção específica, e sem JavaScript as cinco aparecem em sequência. O fundo do tema escuro é poeira em três camadas que respondem ao ponteiro em profundidades diferentes, e o movimento é mola simulada, não curva: 2 KB de código no lugar dos 23 KB da biblioteca que faria o mesmo. |
 
-**Vitrola** e **Central Pessoal** têm APK assinado para baixar. **Vitrola** e **Corpo**
+**Vitrola** e **Rotina** têm APK assinado para baixar. **Vitrola** e **Corpo**
 também instalam na tela de início direto do navegador. Nenhum deles manda dado para lugar
 nenhum — nem os que rodam no celular.
 
